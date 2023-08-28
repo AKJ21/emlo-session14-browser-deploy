@@ -28,3 +28,7 @@ model.export(format='onnx')
 4. Update `page.tsx` file with new code.
 
 5. Run `npm run dev` to start the application.
+
+## Sample test
+
+![cat-cat-image](test.jpg)
